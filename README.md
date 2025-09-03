@@ -24,3 +24,8 @@ Business KPIs: Patient inflow, diagnosis mix, bed utilization, service quality i
 Improved insights into hospital efficiency and patient service quality.
 
 Data-backed decision-making for resource allocation and capacity management.
+
+<img width="806" height="499" alt="03 09 2025_21 46 12_REC" src="https://github.com/user-attachments/assets/7ddc420e-6100-43ec-ae72-dcb5088f0061" />
+
+
+

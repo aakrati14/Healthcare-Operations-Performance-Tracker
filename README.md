@@ -13,9 +13,7 @@ Automated Reporting: Provides regular KPI reports for stakeholders, enhancing vi
 
 🔹 Tools & Techniques
 
-Excel / Power BI / Tableau (whichever you used) for data visualization.
-
-SQL / Python / Pandas for data cleaning and analysis.
+Excel / Power BI for data visualization.
 
 Business KPIs: Patient inflow, diagnosis mix, bed utilization, service quality indicators.
 
